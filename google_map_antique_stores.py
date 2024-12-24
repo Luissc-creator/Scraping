@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = 'AIzaSyDE9OEGOb97M0_dYw7EL4Gfdu2vSeCcLW8'  # Replace with your API Key
+API_KEY = 'your_google_api_key'  # Replace with your API Key
 TEXT_SEARCH_URL = 'https://maps.googleapis.com/maps/api/place/textsearch/json'
 DETAILS_URL = 'https://maps.googleapis.com/maps/api/place/details/json'
 

@@ -3,8 +3,8 @@ import email
 import re
 
 # Email account credentials
-EMAIL = "clydemaxinelegaspi654@gmail.com"  # Replace with your email
-PASSWORD = "truetiger"      # Replace with your email password
+EMAIL = "your_email"  # Replace with your email
+PASSWORD = "password"      # Replace with your email password
 IMAP_SERVER = "imap.gmail.com"  # Correct IMAP server for Outlook
 
 def fetch_latest_verification_code():
